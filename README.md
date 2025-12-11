@@ -1,6 +1,6 @@
 # OL Consulting - Plataforma de Gestão e Agendamento Digital
 
-![Print Home OL Consulting](C:\Users\forma\homeol.png "Home OL Consulting")
+![Print Home OL Consulting](./homeol.png)
 
 ## 📌 Sobre o Projeto
 O **OL Consulting** é uma plataforma digital desenvolvida para modernizar e centralizar os canais de atendimento da **Agência Trampo**, uma empresa de marketing digital e desenvolvimento web.
